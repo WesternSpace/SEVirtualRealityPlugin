@@ -1,3 +1,6 @@
+## This Plugin is Obsolete
+Consider looking at this [plugin](https://github.com/Math0424/SpaceEngineersVR) for your VR needs.
+
 # Space Engineers Plugin Template
 
 ## Prerequisites
